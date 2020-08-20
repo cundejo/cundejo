@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Oliver's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cundejo&show_icons=true&count_private=true&theme=vue)](https://github.com/cundejo)
+[![Oliver's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cundejo&show_icons=true&count_private=true&theme=dark)](https://github.com/cundejo)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cundejo&theme=vue)](https://github.com/cundejo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cundejo&layout=compact&theme=dark)](https://github.com/cundejo)
 
 
 <!--
