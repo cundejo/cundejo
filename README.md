@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[![Oliver's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cundejo&show_icons=true&count_private=true&theme=vue)](https://github.com/cundejo)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cundejo&theme=vue)](https://github.com/cundejo)
+
+
 <!--
 **cundejo/cundejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
