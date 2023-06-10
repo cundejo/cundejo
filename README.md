@@ -4,6 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cundejo&layout=compact&theme=dark)](https://github.com/cundejo)
 
+[![Olivers's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cundejo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **cundejo/cundejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
