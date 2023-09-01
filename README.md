@@ -1,7 +1,7 @@
 ### Hi there 👋
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cundejo)](https://github.com/cundejo)
-
+<p align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cundejo&layout=compact)](https://github.com/cundejo)
+</p>
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=cundejo)](https://github.com/cundejo)
 
 <!--
