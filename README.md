@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cundejo&layout=compact&theme=dark)](https://github.com/cundejo)
 
-[](https://github-readme-streak-stats.herokuapp.com/?user=cundejo)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=cundejo)](https://github.com/cundejo)
 
 <!--
 **cundejo/cundejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
